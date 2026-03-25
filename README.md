@@ -1,61 +1,72 @@
-# 👋 Hey there, I’m **Suryansh (techwithsuryansh)**
+<h1 align="center">
+  Hi there, I'm Suryansh! 
+</h1>
 
-Welcome to my GitHub! I’m a passionate **developer & coder** who loves building cool projects and solving real-world problems. 🚀
+<h3 align="center">
+  Data Enthusiast | Machine Learning Engineer | Full-Stack Developer
+</h3>
 
----
+<p align="center">
+  Passionate about solving real-world problems through data analysis, automation, and intelligent applications. Always eager to explore new technologies and push the limits of what's possible. 🦁
+</p>
 
-## 🧠 About Me
-
-- 💻 I build tools, scripts & applications using Python and JavaScript.
-- 📊 I enjoy **data analysis**, **machine learning**, and automation.
-- ✨ Always exploring new technologies and improving my skills.
-- 🤝 I’m open to collaboration, suggestions, and feedback!
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages:**  
-Python · JavaScript · C++ · C
-
-**Frameworks & Tools:**  
-Pandas · NumPy · Scikit-Learn · Jupyter · Flask · Git · HTML · CSS
-
-**Areas of Interest:**  
-Machine Learning · Automation · Data Science · Full-Stack Development
-
----
-
-## ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **FinanceTracker** | A Python-based tool to track expenses & income. |
-| **Diabetes_Prediction** | ML notebook to predict diabetes risk. |
-| **cnn_dog_cat_classification** | Basic CNN model to classify dogs vs cats. |
-| **GUI-ImageCompressor** | Python GUI app to compress images. |
-
-> ⭐ *Check project READMEs for usage instructions and demos.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryansh-kumar-2ab1012bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/techwithsuryansh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/the.suryanshsinha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
+###  About Me
 
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning models 🧠  
-- Full-Stack Web development (React & Flask) 🌐  
-- Deployment & DevOps basics ☁️
-
----
-
-## 📫 Let’s Connect
-
-Feel free to reach out or follow me:
-
-🌐 LinkedIn: https://www.linkedin.com/in/suryansh-kumar-2ab1012bb  
-📸 Instagram: https://www.instagram.com/the.suryanshsinha  
+-  I build intelligent tools, scripts, and full-stack applications using **Python** and **JavaScript**.
+-  Currently focused on **Data Analysis**, **Machine Learning**, and process automation.
+-  **Currently learning:** Advanced ML architectures, React for frontend development, and DevOps basics (Deployment/Cloud).
+-  **Open to collaboration** on open-source projects involving Data Science or Python automation.
+-  **Fun Fact:** When I'm not coding, I'm constantly exploring new ways to optimize workflows!
 
 ---
 
-_Keep Pushing the limits 🦁_
+###  Tech Stack & Tools
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Data Science & Machine Learning**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Web Development & Tools**  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techwithsuryansh&amp;show_icons=true&amp;theme=radium&amp;hide_border=true" alt="Suryansh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithsuryansh&amp;theme=radium&amp;hide_border=true" alt="Suryansh's GitHub Streak" />
+</div>
+
+
+<p align="center">
+  <em>Keep Pushing the limits 🦁</em>
+</p>
