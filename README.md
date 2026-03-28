@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Suryansh! 
+  Hi there, I'm Suryansh!
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Passionate about solving real-world problems through data analysis, automation, and intelligent applications. Always eager to explore new technologies and push the limits of what's possible. 🦁
+  Passionate about solving real-world problems through data analysis, automation, and intelligent applications. Always eager to explore new technologies and push the limits of what's possible.
 </p>
 
 <p align="center">
@@ -20,6 +20,9 @@
   <a href="https://leetcode.com/u/techwithsuryansh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://huggingface.co/techwithsuryansh" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  </a>
   <a href="https://www.instagram.com/the.suryanshsinha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -30,7 +33,6 @@
 ###  About Me
 
 -  I build intelligent tools, scripts, and full-stack applications using **Python** and **JavaScript**.
--  Currently focused on **Data Analysis**, **Machine Learning**, and process automation.
 -  **Currently learning:** Advanced ML architectures, React for frontend development, and DevOps basics (Deployment/Cloud).
 -  **Open to collaboration** on open-source projects involving Data Science or Python automation.
 -  **Fun Fact:** When I'm not coding, I'm constantly exploring new ways to optimize workflows!
@@ -59,13 +61,19 @@
 
 ---
 
-###  GitHub Stats
+###  GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwithsuryansh&amp;show_icons=true&amp;theme=radium&amp;hide_border=true" alt="Suryansh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithsuryansh&amp;theme=radium&amp;hide_border=true" alt="Suryansh's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwithsuryansh&bg_color=141321&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Suryansh's GitHub Activity Graph" width="100%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithsuryansh&theme=radium&hide_border=true" alt="Suryansh's GitHub Streak" />
+</div>
+
+---
 
 <p align="center">
   <em>Keep Pushing the limits 🦁</em>
