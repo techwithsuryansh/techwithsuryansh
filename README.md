@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <em>Keep Pushing the limits 🦁</em>
+  <em>Keep Pushing the limits. 🦁</em>
 </p>
